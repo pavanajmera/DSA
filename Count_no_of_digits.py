@@ -1,4 +1,4 @@
-#"iterative method:
+# Iterative method:
 def Count_Digits(n):
     count = 0
     while (n != 0):
