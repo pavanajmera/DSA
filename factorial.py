@@ -1,3 +1,4 @@
+# This is Iterativr implementation
 
 def factorial():
     n = int(input("Enter number:"))
